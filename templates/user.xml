@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="clg" value="console.log($text$)" description="console.log" toReformat="false" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
