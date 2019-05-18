@@ -8,4 +8,7 @@
   </action>
   <action id="GotoBookmark1" />
   <action id="QuickChangeScheme" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
 </keymap>
