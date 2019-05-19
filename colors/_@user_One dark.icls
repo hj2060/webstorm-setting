@@ -3,7 +3,7 @@
     <property name="created">2019-05-18T12:49:06</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-05-19T18:04:02</property>
+    <property name="modified">2019-05-19T22:39:19</property>
     <property name="originalScheme">One dark</property>
   </metaInfo>
   <colors>
@@ -26,6 +26,8 @@
     <option name="DOCUMENTATION_COLOR" value="3d424b" />
     <option name="ERROR_HINT" value="781732" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f575f" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
+    <option name="FILESTATUS_UNKNOWN" value="629755" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="282c34" />
     <option name="HTML_TAG_TREE_LEVEL0" value="f44747" />
