@@ -1,0 +1,7 @@
+<keymap version="1" name="Default copy 5" parent="Mac OS X 10.5+">
+  <action id="ActivateFindToolWindow" />
+  <action id="FileChooser.GotoModule" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+</keymap>
