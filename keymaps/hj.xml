@@ -4,12 +4,15 @@
     <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
   <action id="Compare.SameVersion">
-    <keyboard-shortcut first-keystroke="a" />
-    <keyboard-shortcut first-keystroke="alt back_quote" />
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
   <action id="Console.Execute.Multiline" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorSplitLine" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="GotoBookmark1" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="meta 3" />
