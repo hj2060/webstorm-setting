@@ -3,9 +3,17 @@
     <keyboard-shortcut first-keystroke="alt t" />
     <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
   <action id="Console.Execute.Multiline" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorSplitLine" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="GotoBookmark1" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="meta 3" />
@@ -14,6 +22,7 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="SendEOF" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
