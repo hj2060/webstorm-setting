@@ -3,10 +3,19 @@
     <keyboard-shortcut first-keystroke="a" />
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorSplitLine" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
+  <action id="ViewSource" />
+  <action id="com.intellij.lang.jsgraphql.v1.ide.actions.JSGraphQLExecuteEditorAction" />
 </keymap>
