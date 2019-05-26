@@ -14,9 +14,13 @@
   <action id="Console.Execute.Multiline" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorSplitLine" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="GotoBookmark1" />
   <action id="ManageRecentProjects">
@@ -31,6 +35,7 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="SendEOF" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
