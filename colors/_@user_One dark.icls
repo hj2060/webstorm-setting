@@ -3,7 +3,7 @@
     <property name="created">2019-05-18T12:49:06</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-05-19T22:39:19</property>
+    <property name="modified">2019-05-27T10:18:14</property>
     <property name="originalScheme">One dark</property>
   </metaInfo>
   <colors>
@@ -25,7 +25,7 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="21252b" />
     <option name="DOCUMENTATION_COLOR" value="3d424b" />
     <option name="ERROR_HINT" value="781732" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f575f" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="576270" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
     <option name="FILESTATUS_UNKNOWN" value="629755" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
@@ -52,7 +52,8 @@
     <option name="TEARLINE_COLOR" value="4f575f" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="335027" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3e443c" />
-    <option name="VCS_ANNOTATIONS_COLOR_5" value="46333c" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="454848" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="393b46" />
     <option name="VISUAL_INDENT_GUIDE" value="3b4048" />
     <option name="WHITESPACES" value="4b575f" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="5c6370" />
