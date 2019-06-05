@@ -1,5 +1,6 @@
 <templateSet group="Vue">
-  <template name="vts" value="&lt;template&gt;&#10;&#10;&lt;/template&gt;&#10;&#10;&lt;script lang=&quot;ts&quot;&gt;&#10;  import { Component, Vue } from 'vue-property-decorator'&#10;&#10;  @Component&#10;  export default class PageComponent extends Vue {&#10;  }&#10;&lt;/script&gt;&#10;&lt;style scoped&gt;&#10;&lt;/style&gt;&#10;" description="初始化ts模板" toReformat="false" toShortenFQNames="true">
+  <template name="vts" value="&lt;template&gt;&#10;&#10;&lt;/template&gt;&#10;&#10;&lt;script lang=&quot;ts&quot;&gt;&#10;  import { Component, Vue } from 'vue-property-decorator'&#10;&#10;  @Component&#10;  export default class $name$ extends Vue {&#10;  }&#10;&lt;/script&gt;&#10;&lt;style lang=&quot;scss&quot; scoped&gt;&#10;&lt;/style&gt;&#10;" description="初始化ts模板" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
     </context>
