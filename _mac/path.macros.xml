@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="src" value="/Users/huangjie/myproject/manual/src" />
+  </component>
+</application>
