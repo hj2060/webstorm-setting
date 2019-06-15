@@ -1,6 +1,10 @@
 <application>
   <component name="LanguageInjectionConfiguration">
     <injection language="Vue" injector-id="xml">
+      <display-name>el-menu-item/@@contextmenu.native.stop</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().matches("@contextmenu.native.stop")).withParent(xmlTag().withLocalName(string().equalTo("el-menu-item")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="Vue" injector-id="xml">
       <display-name>s-map/@@point</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().matches("@point")).withParent(xmlTag().withLocalName(string().equalTo("s-map")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
