@@ -12,6 +12,10 @@
   </action>
   <action id="Console.Execute.Multiline" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorEscape">
+    <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="back_quote" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="FileChooser.GotoDesktop" />
   <action id="Forward">
