@@ -1,0 +1,14 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="XML/Collapse empty tag" />
+    <ignoreAction name="XML/Convert attribute to child element" />
+    <ignoreAction name="XML/Convert tag to attribute" />
+    <ignoreAction name="XML/Expand empty tag" />
+    <ignoreAction name="XML/Manually setup external resource" />
+    <ignoreAction name="XML/Merge Tags" />
+    <ignoreAction name="XML/Rearrange tag attributes" />
+    <ignoreAction name="XML/Remove attribute" />
+    <ignoreAction name="XML/Remove tag" />
+    <ignoreAction name="XML/Split current tag" />
+  </component>
+</application>
