@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Vue">
+        <added pattern="PointConfigVersion.show(appid,params)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
