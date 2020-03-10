@@ -1,10 +1,10 @@
-<scheme name="_@user_One dark" version="142" parent_scheme="Darcula">
+<scheme name="_@user_One Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-05-18T12:49:06</property>
+    <property name="created">2020-03-09T11:37:47</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-05-27T10:18:14</property>
-    <property name="originalScheme">One dark</property>
+    <property name="ideVersion">2019.3.2.0.0</property>
+    <property name="modified">2020-03-09T14:27:35</property>
+    <property name="originalScheme">One Dark</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
@@ -25,9 +25,7 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="21252b" />
     <option name="DOCUMENTATION_COLOR" value="3d424b" />
     <option name="ERROR_HINT" value="781732" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="576270" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
-    <option name="FILESTATUS_UNKNOWN" value="629755" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f575f" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="282c34" />
     <option name="HTML_TAG_TREE_LEVEL0" value="f44747" />
@@ -47,13 +45,12 @@
     <option name="RIGHT_MARGIN_COLOR" value="606368" />
     <option name="SELECTED_INDENT_GUIDE" value="606368" />
     <option name="SELECTED_TEARLINE_COLOR" value="6b6e73" />
-    <option name="SELECTION_BACKGROUND" value="3e4350" />
+    <option name="SELECTION_BACKGROUND" value="404859" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="TEARLINE_COLOR" value="4f575f" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="335027" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3e443c" />
-    <option name="VCS_ANNOTATIONS_COLOR_4" value="454848" />
-    <option name="VCS_ANNOTATIONS_COLOR_5" value="393b46" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="46333c" />
     <option name="VISUAL_INDENT_GUIDE" value="3b4048" />
     <option name="WHITESPACES" value="4b575f" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="5c6370" />
@@ -198,7 +195,11 @@
         <option name="FOREGROUND" value="59626f" />
       </value>
     </option>
-    <option name="CONSOLE_BLACK_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="61afef" />
@@ -716,18 +717,17 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GHERKIN_TABLE_PIPE">
       <value />
+    </option>
+    <option name="GO_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="5c6370" />
+      </value>
     </option>
     <option name="GO_BUILTIN_TYPE">
       <value>
         <option name="FOREGROUND" value="c678dd" />
-      </value>
-    </option>
-    <option name="GO_BUILTIN_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
     <option name="GO_FUNCTION_PARAMETER">
@@ -792,7 +792,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="484e5b" />
+        <option name="BACKGROUND" value="353940" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -842,10 +842,6 @@
         <option name="FOREGROUND" value="df6a73" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
-    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
-    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JADE_TAG_CLASS">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -1300,6 +1296,16 @@
         <option name="FOREGROUND" value="e5c07b" />
       </value>
     </option>
+    <option name="PY.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c678dd" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="d19a66" />
+      </value>
+    </option>
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
         <option name="FOREGROUND" value="61afef" />
@@ -1316,6 +1322,11 @@
       </value>
     </option>
     <option name="PY.STRING">
+      <value>
+        <option name="FOREGROUND" value="98c379" />
+      </value>
+    </option>
+    <option name="PY.STRING.B">
       <value>
         <option name="FOREGROUND" value="98c379" />
       </value>
@@ -1538,11 +1549,6 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="SASS_URL">
-      <value>
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="SASS_VARIABLE">
       <value />
     </option>
@@ -1648,9 +1654,19 @@
         <option name="FOREGROUND" value="ff8c00" />
       </value>
     </option>
+    <option name="TS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="61afef" />
+      </value>
+    </option>
     <option name="TS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="e5c07b" />
+      </value>
+    </option>
+    <option name="TS.STATIC_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="61afef" />
       </value>
     </option>
     <option name="TS.TYPE_PARAMETER">
@@ -1670,6 +1686,7 @@
     </option>
     <option name="TYPO">
       <value>
+        <option name="EFFECT_COLOR" value="98c379" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -1693,7 +1710,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="484e5b" />
+        <option name="BACKGROUND" value="353940" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
