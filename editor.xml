@@ -7,6 +7,7 @@
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="joe" />
   <component name="DefaultFont">
+    <option name="FONT_SIZE" value="12" />
     <option name="FONT_FAMILY" value="Monospaced" />
   </component>
   <component name="EditorSettings">
