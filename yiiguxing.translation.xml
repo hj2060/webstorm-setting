@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="opacity" />
       <item value="最新" />
       <item value="最近" />
       <item value="promt Visible" />
@@ -15,7 +16,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
