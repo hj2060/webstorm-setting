@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="阵营" />
       <item value="avatar Name" />
       <item value="width" />
       <item value="integrations" />
@@ -19,7 +20,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
+        <entry key="CHINESE" value="17" />
         <entry key="ENGLISH" value="17" />
       </map>
     </option>
