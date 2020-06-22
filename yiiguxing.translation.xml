@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="variable" />
       <item value="复盘" />
       <item value="身份" />
       <item value="identy" />
@@ -24,7 +25,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="ENGLISH" value="22" />
         <entry key="POLISH" value="1" />
       </map>
     </option>
