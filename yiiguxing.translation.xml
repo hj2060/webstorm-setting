@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cancel Vip" />
       <item value="须知" />
       <item value="readed" />
       <item value="renewal" />
@@ -30,7 +31,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="ENGLISH" value="28" />
         <entry key="POLISH" value="1" />
       </map>
     </option>
