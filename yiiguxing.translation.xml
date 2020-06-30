@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="privileage" />
       <item value="Deportaion" />
       <item value="normal" />
       <item value="scaffold" />
@@ -44,7 +45,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="ENGLISH" value="39" />
         <entry key="POLISH" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="1" />
