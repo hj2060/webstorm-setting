@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="open For Me" />
       <item value="灵魂力" />
       <item value="兴趣" />
       <item value="secondary" />
@@ -52,7 +53,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="POLISH" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="1" />
