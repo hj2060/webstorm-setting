@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="daily" />
       <item value="resolve" />
       <item value="auditor" />
       <item value="recall" />
@@ -50,12 +51,11 @@
       <item value="bag" />
       <item value="账单" />
       <item value="装扮" />
-      <item value="cancel Vip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="POLISH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="ROMANIAN" value="1" />
