@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dismissor" />
+      <item value="驳回者" />
+      <item value="dismissed" />
+      <item value="驳回人" />
+      <item value="通过" />
+      <item value="驳回" />
+      <item value="explanation" />
+      <item value="说明" />
+      <item value="instructions" />
+      <item value="申请说明" />
+      <item value="instruction" />
+      <item value="applicant" />
+      <item value="申请人" />
       <item value="rear Audit" />
       <item value="post Audit" />
       <item value="post Audi" />
@@ -38,24 +51,11 @@
       <item value="notice" />
       <item value="variable" />
       <item value="复盘" />
-      <item value="身份" />
-      <item value="identy" />
-      <item value="阵营" />
-      <item value="avatar Name" />
-      <item value="width" />
-      <item value="integrations" />
-      <item value="section" />
-      <item value="opacity" />
-      <item value="最新" />
-      <item value="最近" />
-      <item value="promt Visible" />
-      <item value="migrate" />
-      <item value="container" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="POLISH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="ROMANIAN" value="1" />
