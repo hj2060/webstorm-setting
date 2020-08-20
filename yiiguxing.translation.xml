@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="upper" />
       <item value="prompt" />
       <item value="promet" />
       <item value="promt" />
@@ -50,12 +51,11 @@
       <item value="待办事项" />
       <item value="待办" />
       <item value="后置" />
-      <item value="dressup" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="116" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FINNISH" value="1" />
