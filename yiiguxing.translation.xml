@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exclude" />
+      <item value="排除" />
       <item value="sending Chat" />
       <item value="escap" />
       <item value="liked" />
@@ -49,13 +51,11 @@
       <item value="坐骑" />
       <item value="mount" />
       <item value="总长度" />
-      <item value="privilege" />
-      <item value="variable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="CHINESE" value="125" />
+        <entry key="ENGLISH" value="126" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FINNISH" value="1" />
