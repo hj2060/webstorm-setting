@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Approve" />
       <item value="余额" />
       <item value="接收" />
       <item value="disturb" />
@@ -50,7 +51,6 @@
       <item value="unfold" />
       <item value="un Fold" />
       <item value="sigture" />
-      <item value="Music Story" />
     </histories>
     <option name="languageScores">
       <map>
