@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inputing" />
       <item value="Story" />
       <item value="exist" />
       <item value="handler" />
@@ -50,12 +51,11 @@
       <item value="An index signature parameter type cannot be a union type. Consider using a mapped object type instead." />
       <item value="get Single Image Rect" />
       <item value="收起" />
-      <item value="展开" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="153" />
-        <entry key="ENGLISH" value="154" />
+        <entry key="CHINESE" value="154" />
+        <entry key="ENGLISH" value="155" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FINNISH" value="2" />
