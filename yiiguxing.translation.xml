@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lotter" />
       <item value="stamp" />
       <item value="Bonus" />
       <item value="奖品" />
@@ -50,11 +51,10 @@
       <item value="Fit" />
       <item value="shrink" />
       <item value="External" />
-      <item value="profile" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="182" />
+        <entry key="CHINESE" value="183" />
         <entry key="ENGLISH" value="183" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
@@ -63,7 +63,7 @@
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="4" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="SWEDISH" value="2" />
+        <entry key="SWEDISH" value="3" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
