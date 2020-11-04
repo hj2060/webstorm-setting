@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sales" />
       <item value="下线" />
       <item value="审核人" />
-      <item value="sales" />
       <item value="特权" />
       <item value="权益" />
       <item value="wiget" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="ENGLISH" value="193" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FINNISH" value="2" />
