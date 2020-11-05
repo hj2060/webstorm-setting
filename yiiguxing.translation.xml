@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="可以购买" />
+      <item value="支持购买" />
       <item value="bubble" />
       <item value="reduced" />
       <item value="订阅中" />
@@ -49,13 +51,11 @@
       <item value="step Queue" />
       <item value="stop Matched" />
       <item value="打招呼" />
-      <item value="signatrue" />
-      <item value="Relation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="197" />
-        <entry key="ENGLISH" value="198" />
+        <entry key="CHINESE" value="199" />
+        <entry key="ENGLISH" value="199" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FINNISH" value="2" />
