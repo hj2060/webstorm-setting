@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Progress" />
       <item value="third" />
       <item value="bg-third" />
       <item value="primary" />
@@ -50,7 +51,6 @@
       <item value="Commodity" />
       <item value="商品" />
       <item value="worth" />
-      <item value="sales" />
     </histories>
     <option name="languageScores">
       <map>
