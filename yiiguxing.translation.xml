@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="continues" />
       <item value="chain" />
       <item value="flame" />
       <item value="Progress" />
@@ -50,12 +51,11 @@
       <item value="reduced" />
       <item value="订阅中" />
       <item value="currency" />
-      <item value="Commodity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="CHINESE" value="228" />
+        <entry key="ENGLISH" value="229" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
