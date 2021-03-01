@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="water" />
+      <item value="promotion" />
       <item value="区分" />
       <item value="自定义" />
       <item value="custom" />
@@ -49,8 +51,6 @@
       <item value="是否" />
       <item value="block" />
       <item value="accusation" />
-      <item value="常规" />
-      <item value="背包" />
     </histories>
     <option name="languageScores">
       <map>
