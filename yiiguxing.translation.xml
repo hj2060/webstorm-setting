@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="financial" />
       <item value="water" />
       <item value="promotion" />
       <item value="区分" />
@@ -50,7 +51,6 @@
       <item value="是否重新匹配" />
       <item value="是否" />
       <item value="block" />
-      <item value="accusation" />
     </histories>
     <option name="languageScores">
       <map>
