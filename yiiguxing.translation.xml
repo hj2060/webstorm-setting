@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Handle" />
+      <item value="处理" />
+      <item value="Process" />
       <item value="新增" />
       <item value="Receiver" />
       <item value="前端" />
@@ -48,14 +51,11 @@
       <item value="Navication Domain" />
       <item value="Navication" />
       <item value="运费" />
-      <item value="提取" />
-      <item value="Defines" />
-      <item value="Without" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="287" />
-        <entry key="ENGLISH" value="287" />
+        <entry key="CHINESE" value="288" />
+        <entry key="ENGLISH" value="289" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
