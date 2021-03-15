@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="采集" />
+      <item value="收集" />
       <item value="bloody" />
       <item value="bloody mary girl" />
       <item value="Handle" />
@@ -49,13 +51,11 @@
       <item value="identity" />
       <item value="环境" />
       <item value="integrations" />
-      <item value="Un Friendly" />
-      <item value="Navication Domain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="290" />
-        <entry key="ENGLISH" value="291" />
+        <entry key="CHINESE" value="292" />
+        <entry key="ENGLISH" value="292" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
