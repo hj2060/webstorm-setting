@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="constant" />
+      <item value="常量" />
+      <item value="constand" />
       <item value="内部" />
       <item value="开启" />
       <item value="单图" />
@@ -48,14 +51,11 @@
       <item value="updown" />
       <item value="breath" />
       <item value="Adult" />
-      <item value="Ault" />
-      <item value="reward" />
-      <item value="valentine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="301" />
-        <entry key="ENGLISH" value="301" />
+        <entry key="CHINESE" value="302" />
+        <entry key="ENGLISH" value="303" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
@@ -64,7 +64,7 @@
         <entry key="LATIN" value="2" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
-        <entry key="ROMANIAN" value="4" />
+        <entry key="ROMANIAN" value="5" />
         <entry key="MALAYALAM" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="3" />
