@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="上一个" />
       <item value="mimetype" />
       <item value="提取" />
       <item value="综合" />
@@ -50,11 +51,10 @@
       <item value="未购买" />
       <item value="已下架" />
       <item value="卸下" />
-      <item value="gift" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="305" />
+        <entry key="CHINESE" value="306" />
         <entry key="ENGLISH" value="306" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
