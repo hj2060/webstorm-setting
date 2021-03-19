@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="签名" />
+      <item value="singature" />
+      <item value="允许关注" />
       <item value="上一个" />
       <item value="mimetype" />
       <item value="提取" />
@@ -48,14 +51,11 @@
       <item value="职业" />
       <item value="rect" />
       <item value="矩形" />
-      <item value="未购买" />
-      <item value="已下架" />
-      <item value="卸下" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="306" />
-        <entry key="ENGLISH" value="306" />
+        <entry key="CHINESE" value="308" />
+        <entry key="ENGLISH" value="308" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
@@ -72,7 +72,7 @@
         <entry key="SLOVENIAN" value="1" />
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="1" />
-        <entry key="HINDI" value="3" />
+        <entry key="HINDI" value="4" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
