@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="综合" />
       <item value="曝光" />
       <item value="促活" />
       <item value="constant" />
@@ -50,7 +51,6 @@
       <item value="卸下" />
       <item value="gift" />
       <item value="external" />
-      <item value="updown" />
     </histories>
     <option name="languageScores">
       <map>
