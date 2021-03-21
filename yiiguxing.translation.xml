@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="full Horizontal" />
+      <item value="撑满全屏" />
       <item value="撑满" />
+      <item value="full Vertical" />
+      <item value="full Horizontal" />
       <item value="快捷操作" />
       <item value="Complex" />
       <item value="single" />
@@ -49,13 +51,11 @@
       <item value="promotion" />
       <item value="区分" />
       <item value="自定义" />
-      <item value="custom" />
-      <item value="experiment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="312" />
-        <entry key="ENGLISH" value="313" />
+        <entry key="CHINESE" value="315" />
+        <entry key="ENGLISH" value="315" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
