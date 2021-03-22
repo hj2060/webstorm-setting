@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inner" />
       <item value="居中" />
       <item value="已领奖" />
       <item value="awarded" />
@@ -50,12 +51,11 @@
       <item value="公共平台" />
       <item value="中台架构" />
       <item value="中台" />
-      <item value="Distinguish" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="321" />
-        <entry key="ENGLISH" value="321" />
+        <entry key="ENGLISH" value="322" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
