@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="防抖" />
+      <item value="debounce" />
       <item value="inner" />
       <item value="居中" />
       <item value="已领奖" />
@@ -49,8 +51,6 @@
       <item value="前端" />
       <item value="fronted" />
       <item value="公共平台" />
-      <item value="中台架构" />
-      <item value="中台" />
     </histories>
     <option name="languageScores">
       <map>
