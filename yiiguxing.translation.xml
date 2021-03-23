@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deleted" />
+      <item value="编辑中" />
+      <item value="商务" />
+      <item value="festival" />
+      <item value="节日" />
+      <item value="促活" />
+      <item value="日常促活" />
       <item value="防抖" />
       <item value="debounce" />
       <item value="inner" />
@@ -25,7 +32,6 @@
       <item value="提取" />
       <item value="综合" />
       <item value="曝光" />
-      <item value="促活" />
       <item value="constant" />
       <item value="常量" />
       <item value="constand" />
@@ -45,17 +51,11 @@
       <item value="bloody mary girl" />
       <item value="Handle" />
       <item value="处理" />
-      <item value="Process" />
-      <item value="新增" />
-      <item value="Receiver" />
-      <item value="前端" />
-      <item value="fronted" />
-      <item value="公共平台" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="321" />
-        <entry key="ENGLISH" value="322" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="327" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
