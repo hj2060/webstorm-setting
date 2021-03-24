@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="promote" />
       <item value="opens" />
       <item value="开放" />
       <item value="开启" />
@@ -50,7 +51,6 @@
       <item value="Keybord" />
       <item value="Keyword" />
       <item value="use Arrow Keyword" />
-      <item value="方向键" />
     </histories>
     <option name="languageScores">
       <map>
