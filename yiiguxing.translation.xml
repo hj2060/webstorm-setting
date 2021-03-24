@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mutable" />
       <item value="市场" />
       <item value="festival" />
       <item value="节日" />
@@ -50,7 +51,6 @@
       <item value="round" />
       <item value="距离" />
       <item value="Keybord" />
-      <item value="Keyword" />
     </histories>
     <option name="languageScores">
       <map>
