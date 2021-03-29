@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="拍平对象" />
+      <item value="拍平" />
       <item value="数据处理" />
       <item value="周期" />
       <item value="投放" />
@@ -49,13 +51,11 @@
       <item value="综合" />
       <item value="曝光" />
       <item value="constant" />
-      <item value="常量" />
-      <item value="constand" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="336" />
-        <entry key="ENGLISH" value="336" />
+        <entry key="CHINESE" value="339" />
+        <entry key="ENGLISH" value="339" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616307043719" />
+    <option name="lastTrimTime" value="1616988575637" />
   </component>
 </application>
