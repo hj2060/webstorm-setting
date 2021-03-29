@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="manipulate" />
+      <item value="manipluat" />
       <item value="拍平对象" />
       <item value="拍平" />
       <item value="数据处理" />
@@ -49,13 +51,11 @@
       <item value="mimetype" />
       <item value="提取" />
       <item value="综合" />
-      <item value="曝光" />
-      <item value="constant" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="339" />
-        <entry key="ENGLISH" value="339" />
+        <entry key="ENGLISH" value="340" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
@@ -70,6 +70,7 @@
         <entry key="JAPANESE" value="3" />
         <entry key="SWEDISH" value="3" />
         <entry key="SLOVENIAN" value="1" />
+        <entry key="TURKISH" value="1" />
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="4" />
