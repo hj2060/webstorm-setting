@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="external" />
       <item value="已过期" />
       <item value="不需要分页器" />
       <item value="tech" />
@@ -13,7 +14,6 @@
       <item value="数据处理" />
       <item value="周期" />
       <item value="投放" />
-      <item value="external" />
       <item value="market" />
       <item value="business" />
       <item value="节日" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="344" />
-        <entry key="ENGLISH" value="344" />
+        <entry key="ENGLISH" value="345" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
