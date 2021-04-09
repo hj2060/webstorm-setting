@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="ng" type="HTML" />
+      <mapping ext="ng" type="HTML" />
       <mapping pattern=".env.pre" type="PLAIN_TEXT" />
       <mapping pattern=".env.production-external" type="PLAIN_TEXT" />
       <mapping pattern=".env.develop-production" type="PLAIN_TEXT" />
@@ -15,11 +15,11 @@
       <mapping ext="ttss" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="npx" type="Vue.js" />
-      <removed_mapping pattern="tsconfig.app.json" type="tsconfig" />
-      <removed_mapping pattern="tsconfig.spec.json" type="tsconfig" />
-      <removed_mapping pattern="tsconfig.e2e.json" type="tsconfig" />
-      <removed_mapping pattern="tsconfig.editor.json" type="tsconfig" />
-      <removed_mapping pattern="tsconfig.lib.json" type="tsconfig" />
+      <mapping pattern="tsconfig.app.json" type="tsconfig" />
+      <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
+      <mapping pattern="tsconfig.editor.json" type="tsconfig" />
+      <mapping pattern="tsconfig.spec.json" type="tsconfig" />
+      <mapping pattern="tsconfig.lib.json" type="tsconfig" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
