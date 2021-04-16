@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nesting" />
       <item value="proposal" />
       <item value="single" />
       <item value="clamp" />
@@ -50,12 +51,11 @@
       <item value="分页" />
       <item value="Pagnition" />
       <item value="deleted" />
-      <item value="编辑中" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="359" />
-        <entry key="ENGLISH" value="360" />
+        <entry key="CHINESE" value="360" />
+        <entry key="ENGLISH" value="361" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
