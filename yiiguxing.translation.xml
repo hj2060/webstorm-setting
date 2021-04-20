@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="origin Price" />
+      <item value="food" />
+      <item value="好物" />
       <item value="nesting" />
       <item value="proposal" />
       <item value="single" />
@@ -48,9 +51,6 @@
       <item value="开启" />
       <item value="制造" />
       <item value="generate" />
-      <item value="分页" />
-      <item value="Pagnition" />
-      <item value="deleted" />
     </histories>
     <option name="languageScores">
       <map>
@@ -80,6 +80,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618135257863" />
+    <option name="lastTrimTime" value="1618889910615" />
   </component>
 </application>
