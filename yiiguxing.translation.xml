@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="child" />
       <item value="origin Price" />
       <item value="food" />
       <item value="好物" />
@@ -50,7 +51,6 @@
       <item value="开放" />
       <item value="开启" />
       <item value="制造" />
-      <item value="generate" />
     </histories>
     <option name="languageScores">
       <map>
