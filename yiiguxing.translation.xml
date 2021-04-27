@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Shop" />
+      <item value="好物" />
       <item value="虚拟" />
       <item value="指定" />
       <item value="concurrency" />
@@ -11,7 +13,6 @@
       <item value="child" />
       <item value="origin Price" />
       <item value="food" />
-      <item value="好物" />
       <item value="nesting" />
       <item value="proposal" />
       <item value="single" />
@@ -50,7 +51,6 @@
       <item value="market" />
       <item value="business" />
       <item value="节日" />
-      <item value="mutable" />
     </histories>
     <option name="languageScores">
       <map>
