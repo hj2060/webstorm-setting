@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Factory" />
       <item value="'infer' declarations are only permitted in the 'extends' clause of a conditional type." />
       <item value="优质" />
       <item value="领取" />
@@ -50,7 +51,6 @@
       <item value="拍平对象" />
       <item value="拍平" />
       <item value="数据处理" />
-      <item value="周期" />
     </histories>
     <option name="languageScores">
       <map>
