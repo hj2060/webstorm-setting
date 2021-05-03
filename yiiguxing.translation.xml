@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ESLint: React Hook useEffect has a missing dependency: 'options'. Either include it or remove the dependency array.(react-hooksexhaustive-deps)" />
       <item value="unfold" />
       <item value="循环" />
       <item value="收起" />
@@ -50,7 +51,6 @@
       <item value="已过期" />
       <item value="不需要分页器" />
       <item value="tech" />
-      <item value="repeat Toast" />
     </histories>
     <option name="languageScores">
       <map>
