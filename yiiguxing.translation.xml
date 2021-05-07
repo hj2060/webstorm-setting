@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="allow" />
+      <item value="Access" />
       <item value="preserve" />
       <item value="staging" />
       <item value="ESLint: React Hook useEffect has a missing dependency: 'options'. Either include it or remove the dependency array.(react-hooksexhaustive-deps)" />
@@ -49,8 +51,6 @@
       <item value="批量" />
       <item value="commodities" />
       <item value="Inner" />
-      <item value="external" />
-      <item value="已过期" />
     </histories>
     <option name="languageScores">
       <map>
