@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="resume" />
       <item value="overlay" />
       <item value="通用" />
       <item value="allow" />
@@ -50,7 +51,6 @@
       <item value="long" />
       <item value="Decrypt" />
       <item value="batch" />
-      <item value="批量" />
     </histories>
     <option name="languageScores">
       <map>
