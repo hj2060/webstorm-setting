@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="throttle" />
       <item value="定位目标" />
       <item value="flatten" />
       <item value="effect" />
@@ -50,7 +51,6 @@
       <item value="官方信息" />
       <item value="expired" />
       <item value="exprid" />
-      <item value="很长" />
     </histories>
     <option name="languageScores">
       <map>
