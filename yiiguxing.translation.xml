@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="定位目标" />
       <item value="flatten" />
       <item value="effect" />
       <item value="resume" />
@@ -50,7 +51,6 @@
       <item value="expired" />
       <item value="exprid" />
       <item value="很长" />
-      <item value="long" />
     </histories>
     <option name="languageScores">
       <map>
@@ -80,6 +80,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620549808069" />
+    <option name="lastTrimTime" value="1621129671128" />
   </component>
 </application>
