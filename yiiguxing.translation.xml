@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="commerce" />
+      <item value="电商" />
+      <item value="内容" />
+      <item value="优化" />
       <item value="backward" />
       <item value="anchor" />
       <item value="Map standard html attribute names to their react equivalents." />
@@ -47,10 +51,6 @@
       <item value="clamp" />
       <item value="等比" />
       <item value="商品宣传" />
-      <item value="resource" />
-      <item value="方向" />
-      <item value="share Visible" />
-      <item value="official" />
     </histories>
     <option name="languageScores">
       <map>
