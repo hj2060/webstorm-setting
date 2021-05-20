@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ttl" />
       <item value="角色分类" />
       <item value="dispatch" />
       <item value="commerce" />
@@ -50,7 +51,6 @@
       <item value="nesting" />
       <item value="proposal" />
       <item value="single" />
-      <item value="clamp" />
     </histories>
     <option name="languageScores">
       <map>
