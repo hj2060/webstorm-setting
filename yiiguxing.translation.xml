@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="身份" />
       <item value="ttl" />
       <item value="角色分类" />
       <item value="dispatch" />
@@ -50,7 +51,6 @@
       <item value="food" />
       <item value="nesting" />
       <item value="proposal" />
-      <item value="single" />
     </histories>
     <option name="languageScores">
       <map>
@@ -80,6 +80,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621129671128" />
+    <option name="lastTrimTime" value="1621582602862" />
   </component>
 </application>
