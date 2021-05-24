@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="manage User" />
       <item value="操作人" />
       <item value="handler Name" />
       <item value="handler" />
@@ -50,7 +51,6 @@
       <item value="嵌套" />
       <item value="Dynamic" />
       <item value="streat" />
-      <item value="child" />
     </histories>
     <option name="languageScores">
       <map>
