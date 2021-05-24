@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="操作人" />
+      <item value="handler Name" />
+      <item value="handler" />
       <item value="noreferrer" />
       <item value="身份" />
       <item value="ttl" />
@@ -48,9 +51,6 @@
       <item value="Dynamic" />
       <item value="streat" />
       <item value="child" />
-      <item value="origin Price" />
-      <item value="food" />
-      <item value="nesting" />
     </histories>
     <option name="languageScores">
       <map>
