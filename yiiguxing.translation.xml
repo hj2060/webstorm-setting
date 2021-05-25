@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="arouse" />
       <item value="唤起" />
       <item value="locale" />
       <item value="Column 'bucket_id' in where clause is ambiguous" />
@@ -50,7 +51,6 @@
       <item value="虚拟" />
       <item value="指定" />
       <item value="concurrency" />
-      <item value="自我评价" />
     </histories>
     <option name="languageScores">
       <map>
