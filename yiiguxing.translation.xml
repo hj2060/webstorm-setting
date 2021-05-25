@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="updator" />
+      <item value="updater" />
       <item value="业务" />
       <item value="sad" />
       <item value="arouse" />
@@ -49,8 +51,6 @@
       <item value="领取" />
       <item value="模糊" />
       <item value="Shop" />
-      <item value="好物" />
-      <item value="虚拟" />
     </histories>
     <option name="languageScores">
       <map>
