@@ -11,6 +11,7 @@
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="assign-access.vue" type="PLAIN_TEXT" />
       <mapping pattern="experiment-effect.vue" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.deploy" type="PLAIN_TEXT" />
       <mapping ext="ttml" type="PLAIN_TEXT" />
       <mapping ext="ttss" type="PLAIN_TEXT" />
