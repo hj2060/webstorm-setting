@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Extract it to a separate variable so it can be statically checked" />
       <item value="Base" />
       <item value="initial Value" />
       <item value="Primitive" />
@@ -50,7 +51,6 @@
       <item value="collpe" />
       <item value="Factory" />
       <item value="'infer' declarations are only permitted in the 'extends' clause of a conditional type." />
-      <item value="优质" />
     </histories>
     <option name="languageScores">
       <map>
