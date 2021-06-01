@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="arouse" />
       <item value="立即" />
       <item value="Extract it to a separate variable so it can be statically checked" />
       <item value="Base" />
@@ -10,7 +11,6 @@
       <item value="updater" />
       <item value="业务" />
       <item value="sad" />
-      <item value="arouse" />
       <item value="唤起" />
       <item value="locale" />
       <item value="Column 'bucket_id' in where clause is ambiguous" />
