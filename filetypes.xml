@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="ng" type="HTML" />
+      <mapping pattern=".env-cmdrc" type="JSON" />
       <mapping pattern=".env.pre" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".env.production-external" type="PLAIN_TEXT" />
@@ -12,6 +13,7 @@
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="assign-access.vue" type="PLAIN_TEXT" />
       <mapping pattern="experiment-effect.vue" type="PLAIN_TEXT" />
+      <mapping pattern=".env.developmnt" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.deploy" type="PLAIN_TEXT" />
       <mapping ext="ttml" type="PLAIN_TEXT" />
@@ -29,6 +31,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern=".env-cmdrc" approved="true" type="AspectJ" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
