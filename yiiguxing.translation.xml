@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="day Count" />
       <item value="已领光" />
       <item value="进程中" />
       <item value="未开启" />
@@ -50,12 +51,11 @@
       <item value="Column 'bucket_id' in where clause is ambiguous" />
       <item value="manage User" />
       <item value="操作人" />
-      <item value="handler Name" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="388" />
-        <entry key="ENGLISH" value="388" />
+        <entry key="ENGLISH" value="389" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="2" />
