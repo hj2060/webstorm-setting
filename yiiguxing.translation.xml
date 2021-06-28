@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="office" />
+      <item value="cleover" />
+      <item value="中台架构" />
+      <item value="中台" />
       <item value="associte" />
       <item value="关联" />
       <item value="Invite" />
@@ -47,15 +51,11 @@
       <item value="initial Value" />
       <item value="Primitive" />
       <item value="updator" />
-      <item value="updater" />
-      <item value="sad" />
-      <item value="唤起" />
-      <item value="locale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="390" />
-        <entry key="ENGLISH" value="391" />
+        <entry key="CHINESE" value="393" />
+        <entry key="ENGLISH" value="394" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="2" />
@@ -69,7 +69,7 @@
         <entry key="MALAYALAM" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="JAPANESE" value="3" />
+        <entry key="JAPANESE" value="4" />
         <entry key="SWEDISH" value="4" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="TURKISH" value="1" />
