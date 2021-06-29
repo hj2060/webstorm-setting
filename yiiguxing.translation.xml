@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="阈值" />
+      <item value="额外抽奖次数" />
+      <item value="兑换" />
+      <item value="名单" />
+      <item value="剩余次数" />
       <item value="门槛" />
       <item value="抽奖按钮" />
       <item value="宫格" />
@@ -46,16 +51,11 @@
       <item value="Imperative" />
       <item value="clame" />
       <item value="Scaffold" />
-      <item value="flatten" />
-      <item value="arouse" />
-      <item value="立即" />
-      <item value="Extract it to a separate variable so it can be statically checked" />
-      <item value="Base" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="396" />
-        <entry key="ENGLISH" value="396" />
+        <entry key="CHINESE" value="401" />
+        <entry key="ENGLISH" value="401" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="2" />
