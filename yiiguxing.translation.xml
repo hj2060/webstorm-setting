@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="机审效果体验" />
+      <item value="effett" />
       <item value="万" />
       <item value="scene" />
       <item value="人群" />
@@ -49,8 +51,6 @@
       <item value="day Count" />
       <item value="已领光" />
       <item value="进程中" />
-      <item value="未开启" />
-      <item value="director" />
     </histories>
     <option name="languageScores">
       <map>
