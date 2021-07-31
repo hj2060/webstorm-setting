@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Million" />
+      <item value="ten Million" />
       <item value="paring" />
       <item value="preparing" />
       <item value="千万" />
@@ -49,13 +51,11 @@
       <item value="office" />
       <item value="cleover" />
       <item value="中台架构" />
-      <item value="associte" />
-      <item value="关联" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="426" />
-        <entry key="ENGLISH" value="427" />
+        <entry key="CHINESE" value="428" />
+        <entry key="ENGLISH" value="429" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="2" />
