@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="depend" />
+      <item value="turn" />
+      <item value="行为" />
+      <item value="通用" />
+      <item value="技能" />
+      <item value="回合制" />
+      <item value="顺序" />
+      <item value="回合" />
       <item value="risk Score" />
       <item value="Million" />
       <item value="ten Million" />
@@ -43,19 +51,11 @@
       <item value="中奖" />
       <item value="阈值" />
       <item value="额外抽奖次数" />
-      <item value="兑换" />
-      <item value="名单" />
-      <item value="剩余次数" />
-      <item value="门槛" />
-      <item value="抽奖按钮" />
-      <item value="宫格" />
-      <item value="office" />
-      <item value="cleover" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="429" />
-        <entry key="ENGLISH" value="430" />
+        <entry key="CHINESE" value="436" />
+        <entry key="ENGLISH" value="437" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="2" />
@@ -83,6 +83,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627355579656" />
+    <option name="lastTrimTime" value="1627797106073" />
   </component>
 </application>
