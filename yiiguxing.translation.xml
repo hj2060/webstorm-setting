@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tired" />
+      <item value="mood" />
+      <item value="get Constellation" />
+      <item value="星座" />
       <item value="累" />
       <item value="饿" />
       <item value="哭" />
@@ -47,15 +51,11 @@
       <item value="general" />
       <item value="depend" />
       <item value="turn" />
-      <item value="行为" />
-      <item value="通用" />
-      <item value="技能" />
-      <item value="回合制" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="472" />
-        <entry key="ENGLISH" value="472" />
+        <entry key="CHINESE" value="475" />
+        <entry key="ENGLISH" value="476" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
