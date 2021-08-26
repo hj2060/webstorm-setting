@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="时间轴" />
       <item value="折叠" />
       <item value="segment Id" />
       <item value="summary" />
@@ -50,12 +51,11 @@
       <item value="策略" />
       <item value="分布" />
       <item value="Suspect" />
-      <item value="万" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="479" />
-        <entry key="ENGLISH" value="479" />
+        <entry key="CHINESE" value="480" />
+        <entry key="ENGLISH" value="480" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
