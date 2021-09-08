@@ -18,9 +18,7 @@
       <mapping pattern=".env.production-external" type="PLAIN_TEXT" />
       <mapping ext="ttml" type="PLAIN_TEXT" />
       <mapping ext="ttss" type="PLAIN_TEXT" />
-      <mapping ext="tsx" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
-      <removed_mapping ext="tsx" type="TypeScript JSX" />
       <mapping ext="npx" type="Vue.js" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -28,6 +26,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="tsx" approved="true" type="TypeScript JSX" />
       <removed_mapping pattern=".env-cmdrc" approved="true" type="AspectJ" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
