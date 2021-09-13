@@ -3,23 +3,22 @@
     <extensionMap>
       <mapping ext="ng" type="HTML" />
       <mapping pattern=".env-cmdrc" type="JSON" />
-      <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern="assign-access.vue" type="PLAIN_TEXT" />
-      <mapping pattern=".env.development" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
-      <mapping pattern=".env.develop-production" type="PLAIN_TEXT" />
-      <mapping pattern=".env.production-external" type="PLAIN_TEXT" />
       <mapping pattern="experiment-effect.vue" type="PLAIN_TEXT" />
       <mapping pattern=".env.pre" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".env.deploy" type="PLAIN_TEXT" />
+      <mapping pattern=".env.develop-production" type="PLAIN_TEXT" />
       <mapping pattern=".env.developmnt" type="PLAIN_TEXT" />
       <mapping pattern=".env.devemopment" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production-external" type="PLAIN_TEXT" />
       <mapping ext="ttml" type="PLAIN_TEXT" />
       <mapping ext="ttss" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
-      <mapping ext="tsx" type="TypeScript JSX" />
       <mapping ext="npx" type="Vue.js" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
