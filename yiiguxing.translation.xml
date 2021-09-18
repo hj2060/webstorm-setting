@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sit" />
       <item value="Aprint" />
       <item value="兼容" />
       <item value="跳转" />
@@ -50,7 +51,6 @@
       <item value="心情" />
       <item value="录入" />
       <item value="meal" />
-      <item value="吃饭" />
     </histories>
     <option name="languageScores">
       <map>
