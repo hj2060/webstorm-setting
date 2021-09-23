@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="opera" />
+      <item value="operator" />
+      <item value="操作人" />
+      <item value="handler" />
       <item value="case Insensitive" />
       <item value="Comment" />
       <item value="sit" />
@@ -47,17 +51,13 @@
       <item value="星座" />
       <item value="累" />
       <item value="饿" />
-      <item value="哭" />
-      <item value="爽" />
-      <item value="scene" />
-      <item value="心情" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="506" />
-        <entry key="ENGLISH" value="506" />
+        <entry key="CHINESE" value="508" />
+        <entry key="ENGLISH" value="508" />
         <entry key="POLISH" value="1" />
-        <entry key="DANISH" value="3" />
+        <entry key="DANISH" value="4" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="2" />
