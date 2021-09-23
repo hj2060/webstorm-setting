@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="case Insensitive" />
       <item value="Comment" />
       <item value="sit" />
       <item value="Aprint" />
@@ -50,7 +51,6 @@
       <item value="爽" />
       <item value="scene" />
       <item value="心情" />
-      <item value="录入" />
     </histories>
     <option name="languageScores">
       <map>
