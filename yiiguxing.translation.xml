@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="执行" />
       <item value="展示不正确" />
       <item value="adopt" />
       <item value="申请" />
@@ -50,12 +51,11 @@
       <item value="作废" />
       <item value="审核通过" />
       <item value="Register" />
-      <item value="invite" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="524" />
-        <entry key="ENGLISH" value="524" />
+        <entry key="CHINESE" value="525" />
+        <entry key="ENGLISH" value="525" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="FRENCH" value="3" />
