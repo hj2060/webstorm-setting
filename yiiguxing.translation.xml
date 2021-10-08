@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="states" />
       <item value="上线" />
       <item value="initial Value" />
       <item value="status" />
@@ -50,12 +51,11 @@
       <item value="归因" />
       <item value="squash" />
       <item value="Maintainer" />
-      <item value="protocal" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="538" />
-        <entry key="ENGLISH" value="538" />
+        <entry key="ENGLISH" value="539" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="1" />
