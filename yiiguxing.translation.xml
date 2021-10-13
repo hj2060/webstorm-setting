@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="combine" />
       <item value="远程" />
       <item value="not Dispatch" />
       <item value="langulage" />
       <item value="language" />
       <item value="脏" />
-      <item value="combine" />
       <item value="extract" />
       <item value="Warpper" />
       <item value="Warper" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="551" />
-        <entry key="ENGLISH" value="551" />
+        <entry key="ENGLISH" value="552" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="1" />
