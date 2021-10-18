@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cover" />
       <item value="浮层" />
       <item value="隐藏" />
       <item value="blank" />
@@ -50,12 +51,11 @@
       <item value="Generated" />
       <item value="unclaimed" />
       <item value="signature" />
-      <item value="大区" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="555" />
-        <entry key="ENGLISH" value="555" />
+        <entry key="ENGLISH" value="556" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="1" />
@@ -86,12 +86,5 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1634106635138" />
-  </component>
-  <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
   </component>
 </application>
