@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping ext="ng" type="HTML" />
       <mapping pattern=".env-cmdrc" type="JSON" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="assign-access.vue" type="PLAIN_TEXT" />
       <mapping pattern="experiment-effect.vue" type="PLAIN_TEXT" />
       <mapping pattern=".env.pre" type="PLAIN_TEXT" />
