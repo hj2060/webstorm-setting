@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="postive" />
       <item value="Announce" />
       <item value="制度" />
       <item value="temp" />
@@ -50,12 +51,11 @@
       <item value="浮层" />
       <item value="隐藏" />
       <item value="blank" />
-      <item value="combine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="591" />
-        <entry key="ENGLISH" value="592" />
+        <entry key="CHINESE" value="592" />
+        <entry key="ENGLISH" value="593" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="1" />
