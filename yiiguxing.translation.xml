@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="associcate" />
       <item value="阶段" />
       <item value="step" />
       <item value="award" />
@@ -50,12 +51,11 @@
       <item value="paint" />
       <item value="调用组件" />
       <item value="transfer" />
-      <item value="调用" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="602" />
-        <entry key="ENGLISH" value="602" />
+        <entry key="ENGLISH" value="603" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="1" />
