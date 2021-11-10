@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lighted" />
       <item value="cycle" />
       <item value="phase" />
       <item value="mentor" />
@@ -50,12 +51,11 @@
       <item value="imediate" />
       <item value="实体" />
       <item value="极致" />
-      <item value="未登录" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="610" />
-        <entry key="ENGLISH" value="611" />
+        <entry key="CHINESE" value="612" />
+        <entry key="ENGLISH" value="613" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="1" />
