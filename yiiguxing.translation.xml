@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enter" />
       <item value="is Void" />
       <item value="simple" />
       <item value="boost" />
@@ -50,7 +51,6 @@
       <item value="closure" />
       <item value="顺序" />
       <item value="Interaction" />
-      <item value="负数" />
     </histories>
     <option name="languageScores">
       <map>
