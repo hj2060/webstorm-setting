@@ -22,9 +22,6 @@
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
   </action>
-  <action id="Git.Commit.And.Push.Executor">
-    <keyboard-shortcut first-keystroke="shift meta k" />
-  </action>
   <action id="Git.Merge">
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
@@ -35,6 +32,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
   <action id="GotoBookmark1" />
+  <action id="Hg.Commit.And.Push.Executor" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
@@ -55,7 +53,6 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
-  <action id="Vcs.Push" />
   <action id="ViewSource" />
   <action id="com.intellij.lang.jsgraphql.v1.ide.actions.JSGraphQLExecuteEditorAction" />
 </keymap>
