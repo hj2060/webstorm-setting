@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="aligned" />
       <item value="selects" />
       <item value="开启" />
       <item value="trailing Comma" />
@@ -50,12 +51,11 @@
       <item value="助力" />
       <item value="Fission" />
       <item value="裂变" />
-      <item value="bulleted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="662" />
-        <entry key="ENGLISH" value="663" />
+        <entry key="CHINESE" value="663" />
+        <entry key="ENGLISH" value="664" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
