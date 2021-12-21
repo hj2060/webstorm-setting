@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="crowd" />
       <item value="aware" />
       <item value="目标" />
       <item value="target目标" />
@@ -50,12 +51,11 @@
       <item value="spell" />
       <item value="Enter" />
       <item value="is Void" />
-      <item value="simple" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="667" />
-        <entry key="ENGLISH" value="668" />
+        <entry key="CHINESE" value="668" />
+        <entry key="ENGLISH" value="669" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
