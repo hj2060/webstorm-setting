@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="等于" />
       <item value="草稿" />
       <item value="Assessment" />
       <item value="crowd" />
@@ -50,12 +51,11 @@
       <item value="associcated" />
       <item value="spell Check" />
       <item value="spell" />
-      <item value="Enter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="670" />
-        <entry key="ENGLISH" value="670" />
+        <entry key="CHINESE" value="671" />
+        <entry key="ENGLISH" value="671" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="2" />
